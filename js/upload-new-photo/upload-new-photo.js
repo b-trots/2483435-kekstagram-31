@@ -26,3 +26,4 @@ export const parsePhoto = (file) => {
 
   return false;
 };
+ 
